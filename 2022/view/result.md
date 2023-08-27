@@ -5,7 +5,7 @@
 列数(問題数)はだいぶ長いので右へスクロールする必要があります。表の生データは[こちら](../raw/result.csv)。
 
 
-|       | provlem name→ | saitaku | ho ho ho | kura | Yokohama | spacious | VIDEO | BUS | BUS2 | 3month | tank | nice view | BRIDGE | happy birthday, yall | whois | SSID | BB  | Altai |
+|       | problem name→ | saitaku | ho ho ho | kura | Yokohama | spacious | VIDEO | BUS | BUS2 | 3month | tank | nice view | BRIDGE | happy birthday, yall | whois | SSID | BB  | Altai |
 | ----- | ------------- | ------- | -------- | ---- | -------- | -------- | ----- | --- | ---- | ------ | ---- | --------- | ------ | -------------------- | ----- | ---- | --- | ----- |
 |       | point →       | 200     | 300      | 400  | 500      | 100      | 100   | 200 | 200  | 300    | 300  | 300       | 200    | 200                  | 100   | 100  | 200 | 200   |
 | ↓rank | solve count → | 56      | 57       | 0    | 0        | 56       | 64    | 24  | 32   | 32     | 9    | 27        | 11     | 15                   | 106   | 39   | 5   | 3     |
